@@ -3,6 +3,10 @@
 >写于2020/6/10
 
 百度开发者中心注册建立百度oauth2.0(http://developer.baidu.com/console#app/project)
+1.)![image](https://github.com/zhangbao138208/IdentityServer4.Samples/blob/master/Images/Screenshot_1.png)
+2.)![image](https://github.com/zhangbao138208/IdentityServer4.Samples/blob/master/Images/Screenshot_2.png)
+3.)![image](https://github.com/zhangbao138208/IdentityServer4.Samples/blob/master/Images/Screenshot_3.png)
+
 
 ## 一.介绍
 
